@@ -1,5 +1,5 @@
 ### Hi there, I'm David 👋
-### I am interested on collabing on basically any project
+### I am interested in collabing on basically any project
 
 # Languages I know/learning: 
 - Java, Python, C#
