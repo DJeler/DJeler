@@ -1,9 +1,8 @@
 ### Hi there, I'm David 👋
+### I am interested on collabing on basically any project
 
 # Languages I know/learning: 
 - Java, Python, C#
-
-# Intrested in collabing on basically any project
 
 # Contact: 
 - djeler8562@gmail.com
