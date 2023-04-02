@@ -1,8 +1,8 @@
 ### Hi there, I'm David 👋
-### I am interested in collabing on basically any project
+### I am a soon to be computer science graduate concentrating in Cyber Security
 
-# Languages I know/learning: 
-- Java, Python, C#
+# Languages
+- Java, Python, C#, Bash
 
 # Contact: 
 - djeler8562@gmail.com
