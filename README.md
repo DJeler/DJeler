@@ -2,7 +2,7 @@
 ### I am a computer science graduate concentrating in Cyber Security
 
 # Languages
-- Java, Python, C#, Bash
+- Python, Java, Bash, C#
 
 # Contact: 
 - djeler8562@gmail.com
